@@ -1,8 +1,12 @@
 # Vanilla Single Page Application
 
-My approach to build simple apps with vanilla javascript   
-This is a **very** basic spa for example, there is routing, a custom component and state management
+Example of a simple vanilla spa 
 
-[Live app here](https://zathio-vanilla-spa.netlify.app/)
+```
+pnpm install
+pnpm dev 
+```
+
+
 
 ![preview image](./preview.jpg)
